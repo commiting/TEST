@@ -1,0 +1,40 @@
+2021-10-24 23:21:11|   ERROR|test_login.py[:27]|assert False == True
+Traceback (most recent call last):
+  File "D:\TEST\TestCase\test_login.py", line 25, in test_login
+    assert rep==result['result']
+AssertionError: assert False == True
+2021-10-24 23:22:00|   ERROR|test_login.py[:27]|True
+assert False
+Traceback (most recent call last):
+  File "D:\TEST\TestCase\test_login.py", line 25, in test_login
+    assert rep ,result['result']
+AssertionError: True
+assert False
+2021-10-24 23:22:00|   ERROR|test_login.py[:27]|False
+assert False
+Traceback (most recent call last):
+  File "D:\TEST\TestCase\test_login.py", line 25, in test_login
+    assert rep ,result['result']
+AssertionError: False
+assert False
+2021-10-24 23:22:00|   ERROR|test_login.py[:27]|False
+assert False
+Traceback (most recent call last):
+  File "D:\TEST\TestCase\test_login.py", line 25, in test_login
+    assert rep ,result['result']
+AssertionError: False
+assert False
+2021-10-24 23:22:00|   ERROR|test_login.py[:27]|False
+assert False
+Traceback (most recent call last):
+  File "D:\TEST\TestCase\test_login.py", line 25, in test_login
+    assert rep ,result['result']
+AssertionError: False
+assert False
+2021-10-24 23:22:00|   ERROR|test_login.py[:27]|False
+assert False
+Traceback (most recent call last):
+  File "D:\TEST\TestCase\test_login.py", line 25, in test_login
+    assert rep ,result['result']
+AssertionError: False
+assert False
